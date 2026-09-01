@@ -48,3 +48,7 @@
 - Recap 5: 24 points
 
 **Total: 113 points**
+
+## Advanced JavaScript
+
+- [Advanced JavaScript Restaurant App](https://users.metropolia.fi/~arkojits/js-recap-assignment/advanced-js/index.html)
